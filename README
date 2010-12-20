@@ -1,0 +1,1 @@
+Solves the visibility problem in SPOJ. It works for the test cases given in the problem, but on submission it returns "incorrect answer". I guess some corner cases are missing. But this should be a good start for people trying to solve that problem.
